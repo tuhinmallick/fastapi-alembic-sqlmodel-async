@@ -66,7 +66,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [tuhinmallick/fastapi-alembic-sqlmodel-async](https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|48<br/>Tools used|02/19/24 <br/>Report generated|
+|48<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -340,9 +340,9 @@ Full tech stack [here](/techstack.md)
 |[asyncpg](https://pypi.org/project/asyncpg)|v0.29.0|12/10/23|jonra1993 |Apache-2.0|N/A|
 |[bcrypt](https://pypi.org/project/bcrypt)|v4.1.1|12/10/23|jonra1993 |Apache-2.0|N/A|
 |[celery](https://pypi.org/project/celery)|v5.3.6|12/10/23|jonra1993 |BSD-3-Clause|N/A|
-|[cryptography](https://pypi.org/project/cryptography)|v41.0.7|12/10/23|jonra1993 |BSD-3-Clause,Apache-2.0|[CVE-2023-50782](https://github.com/advisories/GHSA-3ww4-gg4f-jr7f) (High)<br/>[CVE-2024-0727](https://github.com/advisories/GHSA-9v9h-cgj8-h64p) (Moderate)|
+|[cryptography](https://pypi.org/project/cryptography)|v41.0.7|12/10/23|jonra1993 |BSD-3-Clause,Apache-2.0|[CVE-2024-26130](https://github.com/advisories/GHSA-6vqw-3v5j-54x4) (High)<br/>[CVE-2023-50782](https://github.com/advisories/GHSA-3ww4-gg4f-jr7f) (High)<br/>[CVE-2024-0727](https://github.com/advisories/GHSA-9v9h-cgj8-h64p) (Moderate)|
 |[httpx](https://pypi.org/project/httpx)|v0.25.2|12/10/23|jonra1993 |BSD-3-Clause|N/A|
-|[langchain](https://pypi.org/project/langchain)|v0.0.348|12/10/23|jonra1993 |N/A|N/A|
+|[langchain](https://pypi.org/project/langchain)|v0.0.348|12/10/23|jonra1993 |N/A|[CVE-2024-0243](https://github.com/advisories/GHSA-h9j7-5xvc-qhg5) (Low)|
 |[openai](https://pypi.org/project/openai)|v1.3.8|12/10/23|jonra1993 |N/A|N/A|
 |[openpyxl](https://pypi.org/project/openpyxl)|v3.1.2|12/10/23|jonra1993 |MIT|N/A|
 |[pandas](https://pypi.org/project/pandas)|v2.1.4|12/10/23|jonra1993 |BSD-3-Clause|N/A|
