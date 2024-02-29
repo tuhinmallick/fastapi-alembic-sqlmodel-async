@@ -1,0 +1,678 @@
+repo_name: tuhinmallick/fastapi-alembic-sqlmodel-async
+report_id: 5175ba2157471a6b4f9e7bae1738562d
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T20:07:16+00:00'
+requested_by: jonra1993
+provider: github
+branch: main
+detected_tools_count: 48
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 20:44:12.000000000 Z
+- name: Mako
+  description: Template library written in Python
+  website_url: https://github.com/zzzeek/mako
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3583/default_43e3ee00dcc48a40f6fcba33551e4f5a99a10537.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/create-dbs.sql
+  detection_source: create-dbs.sql
+  last_updated_by: jonra1993
+  last_updated_on: 2023-03-25 04:55:28.000000000 Z
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: jonra1993
+  last_updated_on: 2022-03-06 20:53:40.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 4.9.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docs/package-lock.json
+  detection_source: docs/package.json
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 20:44:12.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: jonra1993
+  last_updated_on: 2022-03-06 20:53:40.000000000 Z
+- name: FastAPI
+  description: A high performance, easy to learn, fast to code, ready for production
+    web framework
+  website_url: https://fastapi.tiangolo.com/
+  version: 0.104.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2022-03-06 20:53:40.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docs/package-lock.json
+  detection_source: docs/package.json
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 20:44:12.000000000 Z
+- name: Minio
+  description: AWS S3 open source alternative written in Go
+  website_url: https://minio.io/
+  version: 7.2.0
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: docker-compose.yml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 20:44:12.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  version: 13.3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-03-29 23:41:23.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  version: 4.6.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: docker-compose.yml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-03-25 15:34:48.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.20.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docs/package-lock.json
+  detection_source: docs/babel.config.js
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 20:44:12.000000000 Z
+- name: Caddy
+  description: The Ultimate Server with Automatic HTTPS
+  website_url: https://caddyserver.com/
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/3834/caddy.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-04-01 15:42:52.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/.github/workflows/deploy_docs.yml
+  detection_source: ".github/workflows/deploy_docs.yml"
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 21:43:53.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/pyproject.toml
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2022-03-06 20:53:40.000000000 Z
+- name: Terraform
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://www.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/terraform/3_elastic_beanstalk.tf
+  detection_source: terraform/3_elastic_beanstalk.tf
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 20:20:58.000000000 Z
+- name: Terraform Registry
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://registry.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/terraform/3_elastic_beanstalk.tf
+  detection_source: terraform/3_elastic_beanstalk.tf
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 20:20:58.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docs/yarn.lock
+  detection_source: docs/yarn.lock
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 21:16:52.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 20:44:12.000000000 Z
+- name: IronWorker
+  description: High-Scale Async Task Processing
+  website_url: http://www.iron.io/worker
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Serverless / Task Processing
+  image_url: https://img.stackshare.io/service/2221/default_ff2de42167808184b0a4ec1075adb5bcb0aa3206.jpg
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-03-25 15:34:48.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-04-01 15:42:52.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: jonra1993
+  last_updated_on: 2022-03-06 20:53:40.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  version: 0.0.348
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: OpenAI
+  description: Creating safe AGI that benefits all
+  website_url: https://openai.com/
+  version: 1.3.8
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2022-03-06 20:53:40.000000000 Z
+- name: Software & Database Migration
+  description: We offer software and database migration services, including cloud
+    and mobile porting.
+  website_url: http://worpcloud.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/426/fDAGZwLE_normal.jpeg
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-03-29 23:41:23.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  package_url: https://pypi.org/project/Pillow
+  version: 10.1.0
+  license: HPND
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19844/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/pyproject.toml
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+  vulnerabilities:
+  - name: Arbitrary Code Execution in Pillow
+    cve_id: CVE-2023-50447
+    cve_url: https://github.com/advisories/GHSA-3f63-hfp8-52jq
+    detected_date: Jan 23
+    severity: high
+    first_patched: 10.2.0
+- name: SQLAlchemy
+  description: Database Abstraction Library
+  package_url: https://pypi.org/project/SQLAlchemy
+  version: 2.0.23
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19847/default_db2ab2702f70e20c272f6ce65251108fb2b8f1ea.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/pyproject.toml
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: SQLAlchemy-Utils
+  description: Various utility functions for SQLAlchemy
+  package_url: https://pypi.org/project/SQLAlchemy-Utils
+  version: 0.41.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20114/default_b1f776bac109bd478e1df92299923bb3e844a9d2.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/pyproject.toml
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: alembic
+  description: A database migration tool for SQLAlchemy
+  package_url: https://pypi.org/project/alembic
+  version: 1.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19961/default_61e35171bd9c0e5c5b88b2e4221ca242576ad8c0.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: asyncpg
+  description: An asyncio PostgreSQL driver
+  package_url: https://pypi.org/project/asyncpg
+  version: 0.29.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20348/default_af2b356cd035e5e1c010a45df43c17b898af8c44.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: bcrypt
+  description: Modern password hashing for your software and your servers
+  package_url: https://pypi.org/project/bcrypt
+  version: 4.1.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20031/default_242158225818ea25f0ab9031a46e17f8ff8246cb.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: celery
+  description: Distributed Task Queue
+  package_url: https://pypi.org/project/celery
+  version: 5.3.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19901/default_4f4fb10b6f169603a907dcb35a5a356d784e3bd3.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: cryptography
+  description: Cryptography is a package which provides cryptographic recipes and
+    primitives to Python developers
+  package_url: https://pypi.org/project/cryptography
+  version: 41.0.7
+  license: BSD-3-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19850/default_db2ab2702f70e20c272f6ce65251108fb2b8f1ea.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+  vulnerabilities:
+  - name: cryptography NULL pointer dereference with pkcs12.serialize_key_and_certificates
+      when called with a non-matching certificate and private key and an hmac_hash
+      override
+    cve_id: CVE-2024-26130
+    cve_url: https://github.com/advisories/GHSA-6vqw-3v5j-54x4
+    detected_date: Feb 22
+    severity: high
+    first_patched: 42.0.4
+  - name: Python Cryptography package vulnerable to Bleichenbacher timing oracle attack
+    cve_id: CVE-2023-50782
+    cve_url: https://github.com/advisories/GHSA-3ww4-gg4f-jr7f
+    detected_date: Feb 6
+    severity: high
+    first_patched: 42.0.0
+  - name: Null pointer dereference in PKCS12 parsing
+    cve_id: CVE-2024-0727
+    cve_url: https://github.com/advisories/GHSA-9v9h-cgj8-h64p
+    detected_date: Feb 17
+    severity: moderate
+    first_patched: 42.0.2
+- name: httpx
+  description: The next generation HTTP client
+  package_url: https://pypi.org/project/httpx
+  version: 0.25.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20315/default_5f4e928dbcb1c4db4050881fc2e0229785fc931c.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: langchain
+  description: Building applications with LLMs through composability
+  package_url: https://pypi.org/project/langchain
+  version: 0.0.348
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+  vulnerabilities:
+  - name: langchain Server-Side Request Forgery vulnerability
+    cve_id: CVE-2024-0243
+    cve_url: https://github.com/advisories/GHSA-h9j7-5xvc-qhg5
+    detected_date: Feb 27
+    severity: low
+    first_patched: 0.1.0
+- name: openai
+  description: The official Python library for the openai API
+  package_url: https://pypi.org/project/openai
+  version: 1.3.8
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: openpyxl
+  description: A Python library to read/write Excel 2010 xlsx/xlsm files
+  package_url: https://pypi.org/project/openpyxl
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19895/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  version: 2.1.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: psycopg2-binary
+  description: Psycopg2 - Python-PostgreSQL Database Adapter
+  package_url: https://pypi.org/project/psycopg2-binary
+  version: 2.9.9
+  license: BSD-3-Clause-Attribution
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-03-24 17:43:17.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.31.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: setuptools
+  description: Easily download
+  package_url: https://pypi.org/project/setuptools
+  version: 69.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19831/default_65d1c12a133e1aa67ae96a1221c9c122ddf86c5f.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: torch
+  description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  package_url: https://pypi.org/project/torch
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20038/default_a7a70921d2d3189665c78015850dc968f41705a1.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/pyproject.toml
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-04-27 23:55:16.000000000 Z
+- name: wheel
+  description: A built-package format for Python
+  package_url: https://pypi.org/project/wheel
+  version: 0.42.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19889/default_7182952cb92ae36151a754e2592ac68e6e6340df.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/backend/app/poetry.lock
+  detection_source: backend/app/pyproject.toml
+  last_updated_by: jonra1993
+  last_updated_on: 2023-12-10 02:02:57.000000000 Z
+- name: "@mdx-js/react"
+  description: React implementation for MDX
+  package_url: https://www.npmjs.com/@mdx-js/react
+  version: 1.6.22
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17624/default_61a119a7701a0e8224ca0e4dce7ff951cd67972f.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docs/package-lock.json
+  detection_source: docs/package.json
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 20:44:12.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/tuhinmallick/fastapi-alembic-sqlmodel-async/blob/main/docs/package-lock.json
+  detection_source: docs/package.json
+  last_updated_by: jonra1993
+  last_updated_on: 2023-01-21 20:44:12.000000000 Z
