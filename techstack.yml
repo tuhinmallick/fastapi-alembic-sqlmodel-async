@@ -2,7 +2,7 @@ repo_name: tuhinmallick/fastapi-alembic-sqlmodel-async
 report_id: 5175ba2157471a6b4f9e7bae1738562d
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-19T00:18:09+00:00'
+timestamp: '2024-02-29T20:07:16+00:00'
 requested_by: jonra1993
 provider: github
 branch: main
@@ -484,6 +484,14 @@ tools:
   last_updated_by: jonra1993
   last_updated_on: 2023-12-10 02:02:57.000000000 Z
   vulnerabilities:
+  - name: cryptography NULL pointer dereference with pkcs12.serialize_key_and_certificates
+      when called with a non-matching certificate and private key and an hmac_hash
+      override
+    cve_id: CVE-2024-26130
+    cve_url: https://github.com/advisories/GHSA-6vqw-3v5j-54x4
+    detected_date: Feb 22
+    severity: high
+    first_patched: 42.0.4
   - name: Python Cryptography package vulnerable to Bleichenbacher timing oracle attack
     cve_id: CVE-2023-50782
     cve_url: https://github.com/advisories/GHSA-3ww4-gg4f-jr7f
@@ -523,6 +531,13 @@ tools:
   detection_source: backend/app/pyproject.toml
   last_updated_by: jonra1993
   last_updated_on: 2023-12-10 02:02:57.000000000 Z
+  vulnerabilities:
+  - name: langchain Server-Side Request Forgery vulnerability
+    cve_id: CVE-2024-0243
+    cve_url: https://github.com/advisories/GHSA-h9j7-5xvc-qhg5
+    detected_date: Feb 27
+    severity: low
+    first_patched: 0.1.0
 - name: openai
   description: The official Python library for the openai API
   package_url: https://pypi.org/project/openai
